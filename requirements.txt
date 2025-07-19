@@ -1,0 +1,5 @@
+ 
+pywhatkit
+
+You can install dependencies using:
+pip install -r requirements.txt
